@@ -1,6 +1,6 @@
 # Hi there I'm Fafa 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/fauziaya/fauziaya/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="banner that says Hello World!">
 
 - 🌱 I’m currently learning about data science and machine learning
 - 💬 Ask me about data analytics and visualization
