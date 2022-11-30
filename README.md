@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about data science and machine learning
 - 💬 Ask me about data analytics and visualization
 - 📫 How to reach me: 
-  * <a href="[https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/fauziayaa)">LinkedIn</a> 💼
+  * [LinkedIn](https://www.linkedin.com/in/fauziayaa) 💼
 - ⚡ Fun fact: I'm a funny person
 - 🔭 Things I love besides coding:
   * Playing games 🎮
