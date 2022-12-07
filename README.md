@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I'm a funny person
 - 🔭 Things I love besides coding:
   * Playing games 🎮
-  * Watching movies and anime 📺
+  * Watching movies and dramas 📺
